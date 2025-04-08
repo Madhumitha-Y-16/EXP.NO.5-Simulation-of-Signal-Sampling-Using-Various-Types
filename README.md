@@ -203,6 +203,10 @@ plt.show()
 ![platop sampling graph](https://github.com/user-attachments/assets/02a7427d-3658-4e69-9102-06b0c499c983)
 
 
+
+
 # RESULT :
+
+
 Thus the sampling of natural, ideal and flattop sampling techniques were analyzed and the graph is obtained.
 
