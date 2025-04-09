@@ -119,7 +119,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-#plattop sampling
+#Flat top sampling
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -192,15 +192,16 @@ plt.show()
 ```
 
 # OUTPUT
-## impulse sampling output:
-![natural sampling graph](https://github.com/user-attachments/assets/cafc64e8-f4c5-43bd-ab1b-60b1235c3b14)
+## Impulse sampling output:
+![image](https://github.com/user-attachments/assets/32cc67ae-5f72-4a0a-97a2-e38829473a72)
+![image](https://github.com/user-attachments/assets/676946f4-2471-4cfa-b112-74ac579d939f)
+![image](https://github.com/user-attachments/assets/14742eaa-e5dd-4ecf-8278-e1476b16ed43)
 
+## Natural sampling output:
+![image](https://github.com/user-attachments/assets/55869a45-d5af-4d5b-904d-a24416c32fb8)
 
-## natural sampling output:
-![natural sampling graph](https://github.com/user-attachments/assets/64eb3ec5-6c6a-4b95-b00c-6f4986bca6d9)
-
-## flattop sampling output:
-![platop sampling graph](https://github.com/user-attachments/assets/02a7427d-3658-4e69-9102-06b0c499c983)
+## Flattop sampling output:
+![image](https://github.com/user-attachments/assets/53fa9e19-980e-4b11-abb6-2966e8ebec86)
 
 
 
